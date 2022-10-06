@@ -1,2 +1,2 @@
 #!/bin/bash
-0-iam_betty@Betty sudo chown Betty
+$ wc -l chown betty 0-iam_betty
