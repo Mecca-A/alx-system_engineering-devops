@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty 0-iam_betty 
+0-iam_betty@Betty sudo chown Betty
