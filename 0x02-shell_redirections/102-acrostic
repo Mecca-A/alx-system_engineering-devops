@@ -1,2 +1,2 @@
 #!/bin/bash
-cut --b i | tr --d '\n' | uniq
+cut -c l | tr -d '\n' | sort 
